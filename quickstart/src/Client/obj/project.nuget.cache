@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipAUYr4wFDtTZMj2y7Vu1GtythyFyodrvPLSrR1yX/MSn/+w4X77V+hd8mITEA/4DR4LeNEPhxV4qk1W040DoQ==",
+  "success": true,
+  "projectFilePath": "/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/home/omarerc/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

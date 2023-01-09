@@ -1,0 +1,17 @@
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/bin/Debug/net6.0/Client
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/bin/Debug/net6.0/Client.deps.json
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/bin/Debug/net6.0/Client.dll
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/bin/Debug/net6.0/ref/Client.dll
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/bin/Debug/net6.0/Client.pdb
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/bin/Debug/net6.0/IdentityModel.dll
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/Client.dll
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/ref/Client.dll
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/Client.pdb
+/home/omarerc/Documents/projects/oidc-net/quickstart/src/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
