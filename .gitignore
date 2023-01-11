@@ -1,2 +1,7 @@
 # Backups
 *.tar.gz
+
+# Certificates
+*.crt
+*.key
+*.pem
